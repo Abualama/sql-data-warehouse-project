@@ -32,6 +32,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Abualama. I’m an Data Analytics professional and enjoy working with data!
+Hi there! I'm Abualama. I’m a Data Analytics professional and enjoy working with data!
 
 
